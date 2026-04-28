@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a065a38-afaa-4cf0-83f0-50c0fd4c8ca0",
+  "path": "claude-plugins-official/chrome-devtools-mcp/latest/skills/a11y-debugging",
+  "path_key": "claude-plugins-official/chrome-devtools-mcp/latest/skills/a11y-debugging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

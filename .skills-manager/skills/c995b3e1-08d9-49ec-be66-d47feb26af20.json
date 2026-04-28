@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c995b3e1-08d9-49ec-be66-d47feb26af20",
+  "path": "skills-refiner",
+  "path_key": "skills-refiner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

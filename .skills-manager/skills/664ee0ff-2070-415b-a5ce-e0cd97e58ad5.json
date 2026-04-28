@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "664ee0ff-2070-415b-a5ce-e0cd97e58ad5",
+  "path": "claude-plugins-official/chrome-devtools-mcp/latest/skills/troubleshooting",
+  "path_key": "claude-plugins-official/chrome-devtools-mcp/latest/skills/troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

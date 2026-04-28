@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92be7907-2312-4093-97cf-22ab17309b38",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/receiving-code-review",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/receiving-code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
