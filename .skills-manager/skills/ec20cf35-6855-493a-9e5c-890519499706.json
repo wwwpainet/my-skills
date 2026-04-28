@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec20cf35-6855-493a-9e5c-890519499706",
+  "path": "vercel-react-best-practices",
+  "path_key": "vercel-react-best-practices",
+  "enabled": true,
+  "tags": [
+    "React"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/wwwpainet/my-skills.git",
+    "subpath": "vercel-react-best-practices",
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "240c0b6b-60f4-4c00-85ed-6c92ecaabc2f",
+  "path": "writing-plans",
+  "path_key": "writing-plans",
+  "enabled": true,
+  "tags": [
+    "Superpowers"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "obra/superpowers/writing-plans",
+    "subpath": "skills\\writing-plans",
+    "branch": null
+  }
+}

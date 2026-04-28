@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "975a5cf4-5a4b-48fc-8965-992d062c9709",
+  "path": "self-learning",
+  "path_key": "self-learning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/wwwpainet/my-skills.git",
+    "subpath": "self-learning",
+    "branch": null
+  }
+}

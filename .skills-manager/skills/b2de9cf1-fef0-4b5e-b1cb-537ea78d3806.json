@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "b2de9cf1-fef0-4b5e-b1cb-537ea78d3806",
+  "path": "vue-options-api-best-practices",
+  "path_key": "vue-options-api-best-practices",
+  "enabled": true,
+  "tags": [
+    "vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "vuejs-ai/skills/vue-options-api-best-practices",
+    "subpath": "skills\\vue-options-api-best-practices",
+    "branch": null
+  }
+}

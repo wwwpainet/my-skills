@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35cba450-0429-4171-be09-2e63ef4c4d7f",
+  "path": "claude-plugins-official/chrome-devtools-mcp/latest/skills/debug-optimize-lcp",
+  "path_key": "claude-plugins-official/chrome-devtools-mcp/latest/skills/debug-optimize-lcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

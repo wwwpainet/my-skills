@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "73308d5b-497a-441f-a014-32697599558d",
+  "path": "skills-refiner",
+  "path_key": "skills-refiner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "yknothing/skills-refiner/skills-refiner",
+    "subpath": "skills\\skills-refiner",
+    "branch": null
+  }
+}

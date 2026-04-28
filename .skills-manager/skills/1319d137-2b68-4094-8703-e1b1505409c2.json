@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1319d137-2b68-4094-8703-e1b1505409c2",
+  "path": "agent-browser",
+  "path_key": "agent-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/wwwpainet/my-skills.git",
+    "subpath": "agent-browser",
+    "branch": null
+  }
+}

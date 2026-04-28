@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "b77c06ea-d166-432b-a41f-70a58a26fd26",
+  "path": "browsing",
+  "path_key": "browsing",
+  "enabled": true,
+  "tags": [
+    "Superpowers"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "obra/superpowers-chrome/browsing",
+    "subpath": "skills\\browsing",
+    "branch": null
+  }
+}

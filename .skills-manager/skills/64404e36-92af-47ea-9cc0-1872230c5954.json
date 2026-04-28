@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "64404e36-92af-47ea-9cc0-1872230c5954",
+  "path": "openspec-propose",
+  "path_key": "openspec-propose",
+  "enabled": true,
+  "tags": [
+    "openspec"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/wwwpainet/my-skills.git",
+    "subpath": "openspec-propose",
+    "branch": null
+  }
+}
